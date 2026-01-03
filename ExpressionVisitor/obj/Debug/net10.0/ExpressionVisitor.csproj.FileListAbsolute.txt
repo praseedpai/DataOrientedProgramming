@@ -1,0 +1,14 @@
+C:\JAVA_LEARN\ExpressionVisitor\bin\Debug\net10.0\ExpressionVisitor.exe
+C:\JAVA_LEARN\ExpressionVisitor\bin\Debug\net10.0\ExpressionVisitor.deps.json
+C:\JAVA_LEARN\ExpressionVisitor\bin\Debug\net10.0\ExpressionVisitor.runtimeconfig.json
+C:\JAVA_LEARN\ExpressionVisitor\bin\Debug\net10.0\ExpressionVisitor.dll
+C:\JAVA_LEARN\ExpressionVisitor\bin\Debug\net10.0\ExpressionVisitor.pdb
+C:\JAVA_LEARN\ExpressionVisitor\obj\Debug\net10.0\ExpressionVisitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\JAVA_LEARN\ExpressionVisitor\obj\Debug\net10.0\ExpressionVisitor.AssemblyInfoInputs.cache
+C:\JAVA_LEARN\ExpressionVisitor\obj\Debug\net10.0\ExpressionVisitor.AssemblyInfo.cs
+C:\JAVA_LEARN\ExpressionVisitor\obj\Debug\net10.0\ExpressionVisitor.csproj.CoreCompileInputs.cache
+C:\JAVA_LEARN\ExpressionVisitor\obj\Debug\net10.0\ExpressionVisitor.dll
+C:\JAVA_LEARN\ExpressionVisitor\obj\Debug\net10.0\refint\ExpressionVisitor.dll
+C:\JAVA_LEARN\ExpressionVisitor\obj\Debug\net10.0\ExpressionVisitor.pdb
+C:\JAVA_LEARN\ExpressionVisitor\obj\Debug\net10.0\ExpressionVisitor.genruntimeconfig.cache
+C:\JAVA_LEARN\ExpressionVisitor\obj\Debug\net10.0\ref\ExpressionVisitor.dll

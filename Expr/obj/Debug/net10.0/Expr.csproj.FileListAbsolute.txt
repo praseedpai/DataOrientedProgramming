@@ -1,0 +1,14 @@
+C:\JAVA_LEARN\Expr\bin\Debug\net10.0\Expr.exe
+C:\JAVA_LEARN\Expr\bin\Debug\net10.0\Expr.deps.json
+C:\JAVA_LEARN\Expr\bin\Debug\net10.0\Expr.runtimeconfig.json
+C:\JAVA_LEARN\Expr\bin\Debug\net10.0\Expr.dll
+C:\JAVA_LEARN\Expr\bin\Debug\net10.0\Expr.pdb
+C:\JAVA_LEARN\Expr\obj\Debug\net10.0\Expr.GeneratedMSBuildEditorConfig.editorconfig
+C:\JAVA_LEARN\Expr\obj\Debug\net10.0\Expr.AssemblyInfoInputs.cache
+C:\JAVA_LEARN\Expr\obj\Debug\net10.0\Expr.AssemblyInfo.cs
+C:\JAVA_LEARN\Expr\obj\Debug\net10.0\Expr.csproj.CoreCompileInputs.cache
+C:\JAVA_LEARN\Expr\obj\Debug\net10.0\Expr.dll
+C:\JAVA_LEARN\Expr\obj\Debug\net10.0\refint\Expr.dll
+C:\JAVA_LEARN\Expr\obj\Debug\net10.0\Expr.pdb
+C:\JAVA_LEARN\Expr\obj\Debug\net10.0\Expr.genruntimeconfig.cache
+C:\JAVA_LEARN\Expr\obj\Debug\net10.0\ref\Expr.dll

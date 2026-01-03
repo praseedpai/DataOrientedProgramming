@@ -1,0 +1,14 @@
+C:\JAVA_LEARN\ExprComposite\bin\Debug\net10.0\ExprComposite.exe
+C:\JAVA_LEARN\ExprComposite\bin\Debug\net10.0\ExprComposite.deps.json
+C:\JAVA_LEARN\ExprComposite\bin\Debug\net10.0\ExprComposite.runtimeconfig.json
+C:\JAVA_LEARN\ExprComposite\bin\Debug\net10.0\ExprComposite.dll
+C:\JAVA_LEARN\ExprComposite\bin\Debug\net10.0\ExprComposite.pdb
+C:\JAVA_LEARN\ExprComposite\obj\Debug\net10.0\ExprComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\JAVA_LEARN\ExprComposite\obj\Debug\net10.0\ExprComposite.AssemblyInfoInputs.cache
+C:\JAVA_LEARN\ExprComposite\obj\Debug\net10.0\ExprComposite.AssemblyInfo.cs
+C:\JAVA_LEARN\ExprComposite\obj\Debug\net10.0\ExprComposite.csproj.CoreCompileInputs.cache
+C:\JAVA_LEARN\ExprComposite\obj\Debug\net10.0\ExprComposite.dll
+C:\JAVA_LEARN\ExprComposite\obj\Debug\net10.0\refint\ExprComposite.dll
+C:\JAVA_LEARN\ExprComposite\obj\Debug\net10.0\ExprComposite.pdb
+C:\JAVA_LEARN\ExprComposite\obj\Debug\net10.0\ExprComposite.genruntimeconfig.cache
+C:\JAVA_LEARN\ExprComposite\obj\Debug\net10.0\ref\ExprComposite.dll
